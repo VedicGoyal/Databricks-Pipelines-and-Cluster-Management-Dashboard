@@ -18,6 +18,9 @@ graph LR
     A -->|Compute Specs: system.compute.clusters| B
     B -->|Aggregated Cost Metrics| C
 ```
+
+👉 [Checkout the walkthrough video here.](https://youtu.be/EbR6J_f5dC0)
+
 ## 🎛️ Dashboard Filters
 The dashboard features dynamic, interactive filtering to allow granular investigation of costs:
 * **Date Range From:** Filters all metrics and charts to a specific temporal window, enabling month-over-month or week-over-week cost comparisons.
